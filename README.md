@@ -3,13 +3,6 @@ Learn Quality Assurance
 
 ![kruschecompany](https://user-images.githubusercontent.com/55708473/173809221-99e91180-72e4-4086-b9b0-2026d555f8f6.png)
 
-## Development process
-- Analysis of requirements
-- Design
-- Implementation
-- Verification or testing
-- Maintenance
-
 ## QA process
 - Review of requirements
 - Test planning/writing test cases
@@ -33,11 +26,14 @@ While performing the manual testing on any application, we do not need any speci
 Automation testing is a process of converting any manual test cases into the test scripts with the help of automation tools, or any programming language is known as automation testing. 
 With the help of automation testing, we can enhance the speed of our test execution because here, we do not require any human efforts. We need to write a test script and execute those scripts.
 
+![image](https://user-images.githubusercontent.com/55708473/173891605-4ec89dab-5b9c-4540-b3c7-133c30c7c3c2.png)
+
 ## Testing
 
 ### Unit Testing
 Unit testing involves the testing of each unit or an individual component of the software application. 
 It is the first level of functional testing. The aim behind unit testing is to validate unit components with its performance.
+
 Example:
 - [javatpoint](https://www.javatpoint.com/unit-testing)
 
@@ -48,7 +44,6 @@ The focus of the integration testing level is to expose defects at the time of i
 
 Example:
 - [javatpoint](https://www.javatpoint.com/integration-testing)
--
 
 ### System Testing
 System Testing includes testing of a fully integrated software system. Generally, a computer system is made with the integration of software (any software is only a single element of a computer system). 
@@ -58,7 +53,6 @@ System testing is a series of different type of tests with the purpose to exerci
 
 Example:
 - [javatpoint](https://www.javatpoint.com/system-testing)
-- 
 
 ### Performance Testing
 Checking the behavior of an application by applying some load is known as performance testing. 
